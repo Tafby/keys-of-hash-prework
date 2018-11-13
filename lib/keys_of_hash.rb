@@ -4,6 +4,6 @@ class Hash
   arguments.each do |key, value|
     arguments.has_key?(value)
     
-    
+  end
   end
 end
