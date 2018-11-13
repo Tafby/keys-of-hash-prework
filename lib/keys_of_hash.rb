@@ -6,6 +6,7 @@ class Hash
       array << key
       end
     end
+    array
   end
 end
 #h.keys_of("turtle", "cat", "dog")
